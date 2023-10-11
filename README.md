@@ -1,5 +1,5 @@
 # InputHandlerCodeGenerator
-Unity의 Input System에 레이어 기능을 추가해서 사용할 수 있는 클래스를 자동으로 생성해주는 코드 생성기
+Unity의 Input System에 레이어 기능을 추가해서 바인딩을 초기화하거나 복구할 수 있는 클래스를 자동으로 생성해주는 소스코드 생성기
 
 ## ver_1  
 #### 레이어가 모든 Action을 포함  
